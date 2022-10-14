@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Remera roja",
+      "price": 100,
+      "image": "",
+      "id": 1
+    },
+    {
+        "title": "Remera azul",
+        "price": 180,
+        "image": "",
+        "id": 2
+      },
+      {
+        "title": "Remera verde",
+        "price": 190,
+        "image": "",
+        "id": 3
+      }
+]
